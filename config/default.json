@@ -1,0 +1,9 @@
+{
+    "africastalking": {
+        "username"  : "USERNAME_HERE",
+        "apiKey"    : "API_KEY_HERE",
+        "from"      : "VOICE_PHONE_NUMBER_HERE",
+        "baseUrl"   : "https://api.africastalking.com",
+        "voiceUrl"  : "https://voice.africastalking.com"
+    }
+}
